@@ -79,7 +79,7 @@ def compare_flows(flow1,flow2):
 			flow.pop('packets',None)
 			flow.pop('bytes',None)
 			flow.pop('lastSeen',None)
-		if(flow11 != flow22): 
+		if (flow11 != flow22): 
 			return "false"
 		else : 
 			return "true"
