@@ -1,5 +1,5 @@
 # BMC-SDN
-BMC-SDN is Blockchain-based Multi-controller Architecture for Secure Software-defined Networks
+BMC-SDN is Blockchain-based Multi-controller Architecture for Secure Software-defined Networks.
 This code shows how to deploy a secure multi-controller SDN architecture using MultiChain. First we need to install MININET and then install and configure the controller ONOS and MultiChain.
 In this code, we deploy three controllers using three IP addresses 192.168.1.39, 192.168.1.40, 192.168.1.41.
 
