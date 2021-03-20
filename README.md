@@ -33,6 +33,7 @@ multichaind chain_sdn1 -daemon
 Below is the used python script
 *************************************************************************************************
 import requests
+
 from requests.auth import HTTPBasicAuth
 import json
 import sys
